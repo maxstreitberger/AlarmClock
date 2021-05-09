@@ -1,4 +1,4 @@
-# AlarmClock
+# Alarm Clock / Timer ⏰
 ## Description
 This project is about building an alarm clock. The alarm clock is powered by an Arduino Uno microcontroller. It is able to present the current time via an RTC and a four-digit seven-segment display. The amount of time someone wants to sleep is controlled via two buttons, and the alarm gets armed via an additional button. LEDs indicate in which state the alarm clock is. After the alarm is armed, the WS2821 LED ring shows the progress of how much time has already been passed.
 
