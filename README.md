@@ -19,7 +19,8 @@ This project is about building an alarm clock. The alarm clock is powered by an 
 - 6x 10k Ohm resistor
 
 ## Prerequisites
-- Arduino IDE
+- Arduino IDE \
+**Libraries**:
 - FastLED by Daniel Garcia
 - CapacitiveSensor by Paul Bagder, Paul Stoffregen
 - DS3232RTC by Jack Christensen
